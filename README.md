@@ -4,7 +4,7 @@
 <!-- ANIMATED TYPING -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=600&color=C9A84C&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=🚀+Premium+Frontend+Developer;💡+React+%7C+Node.js+%7C+MongoDB+Expert;🎨+Turning+Ideas+Into+Reality;⚡+Building+World-Class+Web+Apps;🌟+Available+for+Freelance+Projects;✨+Clean+Code+%7C+Beautiful+UIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=600&color=C9A84C&center=true&vCenter=true&width=900&height=60&lines=🚀+Premium+Frontend+Developer;💡+React+%7C+Node.js+%7C+MongoDB+Expert;🎨+Turning+Ideas+Into+Reality;⚡+Building+World-Class+Web+Apps;🌟+Available+for+Freelance+Projects;✨+Clean+Code+%7C+Beautiful+UIs" alt="Typing SVG" />
 
 <br/>
 
