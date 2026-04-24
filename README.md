@@ -2,13 +2,13 @@
 
 # ✦ Shafaqat Iqbal ✦
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Beautiful+Web+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Beautiful+Web+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-C9A84C?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/ShafaqatIqbal77)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=C9A84C)](https://linkedin.com/in/shafaqatiqbal)
-[![Gmail](https://img.shields.io/badge/Gmail-0a0f1e?style=for-the-badge&logo=gmail&logoColor=C9A84C)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=C9A84C)](https://www.linkedin.com/in/shafaqat-iqbal-230531359)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0f1e?style=for-the-badge&logo=gmail&logoColor=C9A84C)](mailto:shafaqatiqbaaal@gmail.com)
 
 </div>
 
@@ -124,8 +124,8 @@ const shafaqat = {
 
 **Open to freelance projects, collaborations & opportunities!**
 
-[![Email](https://img.shields.io/badge/Email_Me-C9A84C?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-C9A84C?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/shafaqatiqbal)
+[![Email](https://img.shields.io/badge/Email_Me-C9A84C?style=for-the-badge&logo=gmail&logoColor=black)](mailto:shafaqatiqbaaal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-C9A84C?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/shafaqat-iqbal-230531359)
 
 <br/>
 
@@ -136,5 +136,5 @@ const shafaqat = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=100&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=0a0f1e&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=120&section=footer&text=Thanks+for+visiting!&fontSize=28&fontColor=0a0f1e&animation=fadeIn" />
 </div>
