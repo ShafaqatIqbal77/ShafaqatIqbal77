@@ -20,7 +20,6 @@
 
 ---
 
-## 👨‍💻 About Me
 
 ## 👨‍💻 About Me
 
