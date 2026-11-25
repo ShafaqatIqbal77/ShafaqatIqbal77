@@ -22,20 +22,22 @@
 
 ## 👨‍💻 About Me
 
-I'm Shafaqat Iqbal, a Computer Science graduate from Kohat, Pakistan, focused on building my career as an **Associate DevOps Engineer**.
+## 👨‍💻 About Me
 
-My background is in Frontend and Full-Stack Development, working with React.js, Node.js, MongoDB and Laravel. I'm now expanding my expertise into AWS Cloud, Linux administration, infrastructure management and deployment practices.
+I'm Shafaqat Iqbal, a Computer Science graduate from **Kohat University of Science & Technology (KUST), Pakistan**, focused on building my career as an **Associate DevOps Engineer**.
 
-I enjoy understanding how applications work behind the scenes — from development and server configuration to deployment, security and troubleshooting.
+My primary focus is DevOps engineering, with hands-on practice in AWS Cloud, Linux administration, EC2 infrastructure, IAM, security hardening and application deployment. I enjoy configuring servers, managing cloud resources, troubleshooting deployment issues and exploring automation to make applications more reliable and secure.
 
-- ☁️ Exploring AWS infrastructure and cloud services.
-- 🐧 Practicing Linux administration and server management.
-- 🐳 Learning Docker and containerization.
-- ⚙️ Building CI/CD workflows with GitHub Actions.
-- 🌐 Deploying web applications on AWS EC2 using Nginx.
-- 🚀 Working towards becoming a skilled DevOps Engineer.
+I also have a development background in React.js, Node.js, MongoDB and Laravel, which helps me understand applications from development to deployment.
 
-**My approach:** Build it. Deploy it. Secure it. Improve it.
+- ☁️ AWS Cloud & Infrastructure
+- 🐧 Linux Administration & Server Management
+- 🔐 IAM & Cloud Security Fundamentals
+- 🐳 Docker & Containerization (Learning)
+- ⚙️ CI/CD & Automation (Learning)
+- 🌐 Application Deployment & Troubleshooting
+
+**My approach:** Build it. Deploy it. Secure it. Automate it.
 
 ---
 
