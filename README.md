@@ -1,309 +1,307 @@
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,6,11,20,30&height=220&section=header&text=Shafaqat%20Iqbal&fontSize=70&fontColor=C9A84C&animation=fadeIn&fontAlignY=40&desc=✦%20Frontend%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20MongoDB%20✦&descAlignY=62&descSize=20&descColor=ffffff&stroke=C9A84C&strokeWidth=2" />
+# 👋 Hi, I'm Shafaqat Iqbal
 
-<!-- ANIMATED TYPING -->
-<div align="center">
+### Associate DevOps Engineer | AWS Cloud | Linux | Docker | CI/CD
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=600&color=C9A84C&center=true&vCenter=true&width=900&height=60&lines=🚀+Premium+Frontend+Developer;💡+React+%7C+Node.js+%7C+MongoDB+Expert;🎨+Turning+Ideas+Into+Reality;⚡+Building+World-Class+Web+Apps;🌟+Available+for+Freelance+Projects;✨+Clean+Code+%7C+Beautiful+UIs" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D5FF&center=true&vCenter=true&width=850&lines=Associate+DevOps+Engineer;AWS+Cloud+%7C+Linux+Administration;Docker+%7C+CI%2FCD+%7C+Automation;MERN+Stack+%26+Laravel+Developer;Building+%2C+Deploying+%26+Securing+Applications" alt="Typing animation" />
+</p>
 
-<br/>
-
-<!-- ANIMATED BADGES -->
-<a href="https://github.com/ShafaqatIqbal77">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-C9A84C?style=for-the-badge&logoColor=black&labelColor=0a0f1e" />
-</a>
-<a href="https://www.linkedin.com/in/shafaqat-iqbal-230531359">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1e" />
-</a>
-<a href="mailto:shafaqatiqbaaal@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f1e" />
-</a>
-<a href="https://github.com/ShafaqatIqbal77">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f1e" />
-</a>
-
-<br/><br/>
-
-<!-- LIVE COUNTERS -->
-![Profile Views](https://komarev.com/ghpvc/?username=ShafaqatIqbal77&color=C9A84C&style=for-the-badge&label=👁️+PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/ShafaqatIqbal77?style=for-the-badge&color=C9A84C&labelColor=0a0f1e&label=👥+FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/ShafaqatIqbal77?style=for-the-badge&color=C9A84C&labelColor=0a0f1e&label=⭐+STARS)
-
-</div>
+<p align="center">
+  <a href="https://github.com/ShafaqatIqbal77">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/shafaqat-iqbal-230531359">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:shafaqatiqbaaal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
-<div align="center">
+## 👨‍💻 About Me
 
-### 🐍 Watch My Contributions Get Eaten!
+I'm Shafaqat Iqbal, a Computer Science graduate from Kohat, Pakistan, focused on building my career as an **Associate DevOps Engineer**.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShafaqatIqbal77/ShafaqatIqbal77/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShafaqatIqbal77/ShafaqatIqbal77/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ShafaqatIqbal77/ShafaqatIqbal77/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+My background is in Frontend and Full-Stack Development, working with React.js, Node.js, MongoDB and Laravel. I'm now expanding my expertise into AWS Cloud, Linux administration, infrastructure management and deployment practices.
 
-</div>
+I enjoy understanding how applications work behind the scenes — from development and server configuration to deployment, security and troubleshooting.
+
+- ☁️ Exploring AWS infrastructure and cloud services.
+- 🐧 Practicing Linux administration and server management.
+- 🐳 Learning Docker and containerization.
+- ⚙️ Building CI/CD workflows with GitHub Actions.
+- 🌐 Deploying web applications on AWS EC2 using Nginx.
+- 🚀 Working towards becoming a skilled DevOps Engineer.
+
+**My approach:** Build it. Deploy it. Secure it. Improve it.
 
 ---
 
-<!-- ABOUT ME WITH DARK/LIGHT SUPPORT -->
-## 🧠 About Me
+## ☁️ AWS Cloud & DevOps Skills
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+### AWS Cloud
 
-```javascript
-const shafaqat = {
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
 
-  role      : "Frontend Developer 👨‍💻",
-  location  : "Pakistan 🇵🇰",
-  passion   : "Premium Web Experiences 🎯",
+- Amazon EC2
+- Security Groups
+- Application Load Balancer (ALB)
+- Target Groups & Health Checks
+- IAM Users, Roles & Policies
+- EBS Volumes & Snapshots
+- IMDSv2 Hardening
+- VPC Fundamentals
 
-  building  : "Full-Stack CMS Platform 🔨",
-  learning  : [
-    "React Advanced ⚛️",
-    "TypeScript 📘",
-    "Next.js 🔺",
-    "AWS ☁️"
-  ],
+### Linux & Server Administration
 
-  available  : true,   // 💼 Open to opportunities!
-  funFact    : "I turn ☕ into beautiful UIs ✨",
-  motto      : "First solve, then code 🧩",
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx" />
+</p>
 
-  contact: {
-    email  : "shafaqatiqbaaal@gmail.com 📧",
-    linkedin: "shafaqat-iqbal-230531359 🔗",
-    github : "ShafaqatIqbal77 🐙"
-  }
+- Ubuntu Administration
+- SSH & Remote Server Access
+- Linux Users, Groups & Permissions
+- systemd & Service Management
+- Nginx Configuration
+- PHP-FPM
+- MySQL Administration
 
-};
+### DevOps & Automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,terraform" />
+</p>
+
+| Technology | Current Level |
+|---|---|
+| Git & GitHub | Working Knowledge |
+| Docker | Learning |
+| GitHub Actions / CI/CD | Learning |
+| Terraform | Learning |
+| Monitoring | Learning |
+
+### Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,js,nodejs,express,mongodb,php,laravel,html,css,tailwind" />
+</p>
+
+- React.js & Vite
+- JavaScript
+- Node.js & Express.js
+- MongoDB
+- HTML5 & CSS3
+- Tailwind CSS
+- PHP & Laravel
+
+### AI-Assisted Development
+
+- Windsurf
+- Claude Code
+
+---
+
+## 🛠️ Featured Projects & Hands-on Labs
+
+### 1. AWS Application Load Balancer Lab
+
+**Objective:** Distribute incoming application traffic across multiple EC2 instances.
+
+**Implementation:**
+- Configured two EC2 instances in AWS ap-southeast-2.
+- Created an Application Load Balancer.
+- Configured Target Groups and health checks.
+- Created separate Security Groups for ALB and web servers.
+- Configured traffic flow between load balancer and instances.
+
+**Architecture:**
+
+```text
+             Internet
+                 |
+                 v
+       Application Load Balancer
+                 |
+          Target Group
+             /     \
+            v       v
+         EC2-1    EC2-2
+         Web 1    Web 2
 ```
 
-<br clear="right"/>
+**Technologies:** AWS EC2, ALB, Target Groups, Security Groups, VPC.
 
 ---
 
-<!-- ANIMATED STATS - DARK/LIGHT AUTO SWITCH -->
+### 2. AWS EC2 Security Hardening
+
+**Objective:** Improve EC2 instance security using AWS security features.
+
+**Implementation:**
+- Restricted SSH inbound access.
+- Enforced IMDSv2.
+- Used IAM Roles instead of storing AWS access keys on instances.
+- Created EBS snapshots.
+- Configured security settings through AWS Management Console.
+
+**Technologies:** AWS EC2, IAM, Security Groups, IMDSv2, EBS.
+
+---
+
+### 3. Laravel Jobs Portal – AWS EC2 Deployment
+
+**Objective:** Deploy a Laravel application on an Ubuntu EC2 server.
+
+**Implementation:**
+- Configured Ubuntu server.
+- Installed and configured Nginx.
+- Configured PHP-FPM 8.2.
+- Installed and configured MySQL.
+- Created a dedicated database user.
+- Configured application file permissions.
+- Troubleshot deployment and server configuration errors.
+
+**Technologies:** AWS EC2, Ubuntu, Nginx, PHP-FPM 8.2, MySQL, Laravel.
+
+---
+
+### 4. College Management System
+
+**Objective:** Develop a college management platform with a modern web architecture.
+
+**Implementation:**
+- React.js and Vite frontend.
+- Worked with PHP and MySQL in the original implementation.
+- Developed a MERN-based implementation using Node.js, Express.js and MongoDB.
+- Worked on application structure and backend integration.
+
+**Technologies:** React.js, Vite, Node.js, Express.js, MongoDB, PHP, MySQL.
+
+---
+
+### 5. TodoFlow – MERN Stack Application
+
+**Objective:** Build a task management application to practice full-stack development.
+
+**Implementation:**
+- React frontend.
+- Node.js and Express backend.
+- REST API development.
+- MongoDB integration.
+- Task creation, updating and deletion.
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB.
+
+---
+
+### 6. Inventory & Sales Management System
+
+**Objective:** Develop an inventory management application for managing stock and sales operations.
+
+**Implementation:**
+- Full-stack MERN architecture.
+- Frontend and backend integration.
+- Inventory and sales management functionality.
+- REST API integration.
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB.
+
+---
+
+### 7. CMS + DevOps Integration
+
+<p>
+  <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=for-the-badge" />
+</p>
+
+**Objective:** Introduce DevOps practices into an existing web application.
+
+**Planned implementation:**
+- Docker containerization.
+- GitHub Actions CI/CD pipeline.
+- Automated build and deployment.
+- AWS EC2 deployment.
+- Application monitoring fundamentals.
+
+**Technologies:** MERN, Docker, GitHub Actions, AWS EC2.
+
+---
+
+## 🗺️ My DevOps Learning Roadmap
+
+| Technology | Status |
+|---|---|
+| Linux Administration | 🟢 Hands-on Practice |
+| AWS Cloud Fundamentals | 🟢 Hands-on Practice |
+| EC2 & IAM | 🟢 Hands-on Practice |
+| Docker | 🟡 Learning |
+| GitHub Actions | 🟡 Learning |
+| Terraform | 🟡 Learning |
+| Kubernetes | ⚪ Upcoming |
+| Monitoring & Logging | ⚪ Upcoming |
+
+**Current focus:** Docker, CI/CD automation and Infrastructure as Code.
+
+---
+
+## 🎓 Education & Certifications
+
+**Education**
+
+- Bachelor of Science in Computer Science (BSCS)
+- Kohat University of Science & Technology (KUST)
+
+**Certifications**
+
+Add verified certifications here as you earn them.
+
+<!-- Certification template:
+- Certification Name — Issuer — Year
+-->
+
+---
+
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShafaqatIqbal77&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafaqatIqbal77&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<!-- Dark Mode Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ShafaqatIqbal77&show_icons=true&bg_color=0d1117&title_color=C9A84C&icon_color=C9A84C&text_color=f8f4ed&border_color=C9A84C&border_radius=12&count_private=true&include_all_commits=true&hide_border=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ShafaqatIqbal77&show_icons=true&bg_color=ffffff&title_color=0a0f1e&icon_color=C9A84C&text_color=0a0f1e&border_color=C9A84C&border_radius=12&count_private=true&include_all_commits=true&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShafaqatIqbal77&show_icons=true&bg_color=0d1117&title_color=C9A84C&icon_color=C9A84C&text_color=f8f4ed&border_color=C9A84C&border_radius=12&count_private=true&include_all_commits=true" />
-</picture>
+<p align="center">
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShafaqatIqbal77&theme=tokyonight&hide_border=true" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafaqatIqbal77&layout=compact&bg_color=0d1117&title_color=C9A84C&text_color=f8f4ed&border_color=C9A84C&border_radius=12&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafaqatIqbal77&layout=compact&bg_color=ffffff&title_color=0a0f1e&text_color=0a0f1e&border_color=C9A84C&border_radius=12&langs_count=8" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafaqatIqbal77&layout=compact&bg_color=0d1117&title_color=C9A84C&text_color=f8f4ed&border_color=C9A84C&border_radius=12&langs_count=8" />
-</picture>
-
-<br/><br/>
-
-<!-- ANIMATED STREAK - DARK/LIGHT -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ShafaqatIqbal77&theme=dark&background=0d1117&border=C9A84C&ring=C9A84C&fire=ff6b35&currStreakLabel=C9A84C&sideLabels=f8f4ed&dates=888888&border_radius=12" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ShafaqatIqbal77&theme=default&background=ffffff&border=C9A84C&ring=C9A84C&fire=ff6b35&currStreakLabel=0a0f1e&sideLabels=0a0f1e&dates=444444&border_radius=12" />
-  <img width="65%" src="https://streak-stats.demolab.com?user=ShafaqatIqbal77&theme=dark&background=0d1117&border=C9A84C&ring=C9A84C&fire=ff6b35&currStreakLabel=C9A84C&sideLabels=f8f4ed&dates=888888&border_radius=12" />
-</picture>
-
-</div>
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShafaqatIqbal77&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-<!-- ANIMATED TECH STACK -->
-## ⚡ Tech Arsenal
+## 🤝 Let's Connect
 
-<div align="center">
+I'm interested in opportunities where I can contribute, learn and grow in Cloud and DevOps engineering.
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite,figma&theme=dark&perline=7" />
+<p align="center">
+  <a href="mailto:shafaqatiqbaaal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shafaqat-iqbal-230531359">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/ShafaqatIqbal77">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-### 🔧 Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose&theme=dark&perline=7" />
+<p align="center">
+  <i>"Great applications are not just built — they are deployed, secured, monitored and continuously improved."</i>
+</p>
 
-### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,vercel&theme=dark&perline=7" />
-
-<br/>
-
-<!-- ANIMATED PROGRESS BARS -->
-### 📊 Skill Levels
-
-![React](https://img.shields.io/badge/React-85%25-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0a0f1e)
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0a0f1e)
-![Node.js](https://img.shields.io/badge/Node.js-70%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0a0f1e)
-![MongoDB](https://img.shields.io/badge/MongoDB-75%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0a0f1e)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0a0f1e)
-
-</div>
-
----
-
-<!-- ANIMATED PROJECTS -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏨 Luxury Hotel Website</h3>
-      <div align="center">
-        <a href="https://github.com/ShafaqatIqbal77">
-          <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="160px" style="border-radius:10px" />
-        </a>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Status-🟢_Live-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3" />
-        <br/><br/>
-        <p><b>Ultra-premium 5-star hotel website</b> with cinematic animations, parallax scrolling, luxury design system & booking system</p>
-        <a href="https://github.com/ShafaqatIqbal77">
-          <img src="https://img.shields.io/badge/🔗_View_Project-C9A84C?style=for-the-badge" />
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📝 CMS Platform</h3>
-      <div align="center">
-        <a href="https://github.com/ShafaqatIqbal77">
-          <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="160px" style="border-radius:10px" />
-        </a>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Status-🟡_In_Progress-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <br/><br/>
-        <p><b>Full-stack CMS</b> with JWT auth, role-based access, media uploads, REST APIs & MongoDB Atlas integration</p>
-        <a href="https://github.com/ShafaqatIqbal77">
-          <img src="https://img.shields.io/badge/🔗_View_Project-C9A84C?style=for-the-badge" />
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 Portfolio Website</h3>
-      <div align="center">
-        <a href="https://github.com/ShafaqatIqbal77">
-          <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="160px" style="border-radius:10px" />
-        </a>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Status-🟢_Live-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3" />
-        <br/><br/>
-        <p><b>Personal developer portfolio</b> with smooth animations, project showcase, skills display & contact form</p>
-        <a href="https://github.com/ShafaqatIqbal77">
-          <img src="https://img.shields.io/badge/🔗_View_Project-C9A84C?style=for-the-badge" />
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Coming Soon...</h3>
-      <div align="center">
-        <br/>
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Status-🔵_Planning-blue?style=flat-square" />
-        <br/><br/>
-        <p>Always building something new & exciting! Follow me on GitHub to get notified about upcoming projects 🚀</p>
-        <a href="https://github.com/ShafaqatIqbal77?tab=repositories">
-          <img src="https://img.shields.io/badge/📂_All_Repos-0a0f1e?style=for-the-badge&logo=github&logoColor=C9A84C" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<!-- ANIMATED TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ShafaqatIqbal77&theme=darkhub&column=7&margin-w=10&margin-h=10&no-bg=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ShafaqatIqbal77&theme=flat&column=7&margin-w=10&margin-h=10&no-bg=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ShafaqatIqbal77&theme=darkhub&column=7&margin-w=10&margin-h=10&no-bg=true" />
-</picture>
-
-</div>
-
----
-
-<!-- ANIMATED ACTIVITY GRAPH -->
-## 📈 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ShafaqatIqbal77&bg_color=0d1117&color=C9A84C&line=C9A84C&point=ffffff&area_color=C9A84C&area=true&border_color=C9A84C&radius=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ShafaqatIqbal77&bg_color=ffffff&color=0a0f1e&line=C9A84C&point=0a0f1e&area_color=C9A84C&area=true&border_color=C9A84C&radius=8" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShafaqatIqbal77&bg_color=0d1117&color=C9A84C&line=C9A84C&point=ffffff&area_color=C9A84C&area=true&border_color=C9A84C&radius=8" width="100%" />
-</picture>
-
-</div>
-
----
-
-<!-- ANIMATED QUOTE -->
-## 💡 Dev Quote of the Day
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" />
-</picture>
-
-</div>
-
----
-
-<!-- CONNECT SECTION -->
-## 🤝 Let's Build Something Amazing
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
-
-### 💼 Open to Freelance · Collaboration · Full-time Roles
-
-<br/>
-
-<a href="mailto:shafaqatiqbaaal@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email_Me-C9A84C?style=for-the-badge&logoColor=black" />
-</a>
-<a href="https://www.linkedin.com/in/shafaqat-iqbal-230531359">
-<img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://github.com/ShafaqatIqbal77?tab=repositories">
-<img src="https://img.shields.io/badge/⭐_Star_My_Work-0a0f1e?style=for-the-badge&logo=github&logoColor=C9A84C" />
-</a>
-
-<br/><br/>
-
-> ### *"First, solve the problem. Then, write the code."*
-> ### *"Code is like poetry — every line matters."*
-
-<br/>
-
-<!-- ANIMATED FOOTER GIF -->
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="10px" />
-
-</div>
-
-<!-- ANIMATED FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=160&section=footer&text=Thanks+for+Visiting!+⭐+Star+my+repos+if+you+like+my+work!&fontSize=22&fontColor=C9A84C&animation=fadeIn&fontAlignY=70" />
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
